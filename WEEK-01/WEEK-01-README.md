@@ -1,0 +1,1 @@
+The following content is the assignments and solutions for week-1.
